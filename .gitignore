@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# My_description
+*.rar
+*晓
+
 # Distribution / packaging
 .Python
 build/
